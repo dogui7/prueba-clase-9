@@ -1,4 +1,4 @@
 console.log('Hola!');
 console.log('Chau!');
 
-console.log('Esto traera problemas');
+console.log('nuevo! ' + 'Esto traera problemas');
